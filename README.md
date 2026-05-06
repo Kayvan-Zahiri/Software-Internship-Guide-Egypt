@@ -17,27 +17,31 @@ This guide helps Egyptian students find and land software internships. Whether y
 
 ### Full Stack & Web Development
 
-| Company                    | Internship Title                | Link                                                                                                                                                  | Location |
-| :------------------------- | :------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
-| **Thndr**                  | FullStack Intern                | [Apply](https://jobs.ashbyhq.com/thnd/83043846-1f38-449b-a638-8ac6944c82e0)                                                                           | Cairo    |
-| **MD-labs**                | Java Full-stack Intern          | [Apply](https://md-labs.net/careers/Java%20Full-stack%20Intern)                                                                                       | Cairo    |
-| **Masteryhub**             | Full Stack Engineer Intern      | [Apply](https://www.masteryhub-its.com/careers/software-development-engineer-full-stack-engineer-intern#apply)                                        | Cairo    |
-| **Business Web Solutions** | Full Stack Web Developer Intern | [Apply](https://eg.talent.com/view?id=d3f4fc582c57)                                                                                                   | Cairo    |
-| **Avidbeam Technologies**  | Software Engineer Intern        | [Apply](https://wuzzuf.net/internship/luimrbjskisw-software-engineer-intern-avidbeam-technologies-cairo-egypt?l=cup&t=hj&a=Internships-in-Egypt&o=58) | Cairo    |
+| Company                    | Internship Title                | Link                                                                                                                                                                                       | Location |
+| :------------------------- | :------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
+| **Thndr**                  | FullStack Intern                | [Apply](https://jobs.ashbyhq.com/thndr/83043846-1f38-449b-a638-8ac6944c82e0?employmentType=Intern)                                                                                         | Cairo    |
+| **MD-labs**                | Java Full-stack Intern          | [Apply](https://md-labs.net/careers/Java%20Full-stack%20Intern)                                                                                                                            | Cairo    |
+| **Masteryhub**             | Full Stack Engineer Intern      | [Apply](https://www.masteryhub-its.com/careers/software-development-engineer-full-stack-engineer-intern#apply)                                                                             | Cairo    |
+| **Business Web Solutions** | Full Stack Web Developer Intern | [Apply](https://eg.talent.com/view?id=d3f4fc582c57)                                                                                                                                        | Cairo    |
+| **Avidbeam Technologies**  | Software Engineer Intern        | [Apply](https://wuzzuf.net/internship/luimrbjskisw-software-engineer-intern-avidbeam-technologies-cairo-egypt?l=cup&t=hj&a=Internships-in-Egypt&o=58)                                      | Cairo    |
+| **TalentinoAI**            | Fullstack Intern                | [Apply](https://interview.talentinobot.com/job-application/bQVdR4RXUh8pv2jgOoPBsZn9gItOUTXnLQ)                                                                                             | Cairo    |
+| **NeuroTech**              | Frontend Developer              | [Apply](https://www.linkedin.com/posts/ayaelsayed_copied-internship-share-7454292859739893761-Zahv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLdSNQBQUJ9guVY7J4LIfFp2kgAVF2C-s8) | Cairo    |
 
 ### Backend & AI
 
-| Company   | Internship Title | Link                                                                                               | Location |
-| :-------- | :--------------- | :------------------------------------------------------------------------------------------------- | :------- |
-| **Thndr** | Backend Intern   | [Apply](https://jobs.ashbyhq.com/thndr/d20adc3e-4a37-4cd2-9232-2f9402f60bb5?employmentType=Intern) | Cairo    |
+| Company       | Internship Title           | Link                                                                                                                                                                                       | Location |
+| :------------ | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
+| **Thndr**     | Backend Intern             | [Apply](https://jobs.ashbyhq.com/thndr/d20adc3e-4a37-4cd2-9232-2f9402f60bb5?employmentType=Intern)                                                                                         | Cairo    |
+| **NeuroTech** | Backend Developer (Django) | [Apply](https://www.linkedin.com/posts/ayaelsayed_copied-internship-share-7454292859739893761-Zahv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLdSNQBQUJ9guVY7J4LIfFp2kgAVF2C-s8) | Cairo    |
 
 ### Mobile & Design
 
-| Company     | Internship Title        | Link                                                             | Location |
-| :---------- | :---------------------- | :--------------------------------------------------------------- | :------- |
-| **Blink22** | UI/UX Designer Intern   | [Apply](https://www.blink22.com/careers/uiux-design-intern/)     | Cairo    |
-| **MD-labs** | Flutter Software Intern | [Apply](https://md-labs.net/careers/Flutter%20Software%20Intern) | Cairo    |
-| **MD-labs** | Junior UI/UX Designer   | [Apply](https://md-labs.net/careers/junior-ui_ux-designer)       | Cairo    |
+| Company       | Internship Title        | Link                                                                                                                                                                                       | Location |
+| :------------ | :---------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
+| **Blink22**   | UI/UX Designer Intern   | [Apply](https://www.blink22.com/careers/uiux-design-intern/)                                                                                                                               | Cairo    |
+| **MD-labs**   | Flutter Software Intern | [Apply](https://md-labs.net/careers/Flutter%20Software%20Intern)                                                                                                                           | Cairo    |
+| **MD-labs**   | Junior UI/UX Designer   | [Apply](https://md-labs.net/careers/junior-ui_ux-designer)                                                                                                                                 | Cairo    |
+| **NeuroTech** | Flutter Developer       | [Apply](https://www.linkedin.com/posts/ayaelsayed_copied-internship-share-7454292859739893761-Zahv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLdSNQBQUJ9guVY7J4LIfFp2kgAVF2C-s8) | Cairo    |
 
 ### QA, Security & Data
 
