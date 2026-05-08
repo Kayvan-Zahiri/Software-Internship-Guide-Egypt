@@ -27,13 +27,15 @@ This guide helps Egyptian students find and land software internships. Whether y
 | **TalentinoAI**            | Fullstack Intern                       | [Apply](https://interview.talentinobot.com/job-application/bQVdR4RXUh8pv2jgOoPBsZn9gItOUTXnLQ)                                                                                             | Cairo             |
 | **NeuroTech**              | Frontend Developer                     | [Apply](https://www.linkedin.com/posts/ayaelsayed_copied-internship-share-7454292859739893761-Zahv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLdSNQBQUJ9guVY7J4LIfFp2kgAVF2C-s8) | Cairo             |
 | **Eventum Solutions**      | Software Development Summer Internship | [Apply](https://www.eventumsolutions.com/career-details/software-summer-internship)                                                                                                        | Alexandria, Egypt |
+| **SEITech**                | Web Development Engineer               | [Apply](https://seitech-solutions.odoo.com/jobs/detail/web-development-engineer-internship-r4-305)                                                                                         | Giza, Egypt       |
 
 ### Backend & AI
 
-| Company       | Internship Title           | Link                                                                                                                                                                                       | Location |
-| :------------ | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
-| **Thndr**     | Backend Intern             | [Apply](https://jobs.ashbyhq.com/thndr/d20adc3e-4a37-4cd2-9232-2f9402f60bb5?employmentType=Intern)                                                                                         | Cairo    |
-| **NeuroTech** | Backend Developer (Django) | [Apply](https://www.linkedin.com/posts/ayaelsayed_copied-internship-share-7454292859739893761-Zahv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLdSNQBQUJ9guVY7J4LIfFp2kgAVF2C-s8) | Cairo    |
+| Company       | Internship Title           | Link                                                                                                                                                                                       | Location    |
+| :------------ | :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
+| **Thndr**     | Backend Intern             | [Apply](https://jobs.ashbyhq.com/thndr/d20adc3e-4a37-4cd2-9232-2f9402f60bb5?employmentType=Intern)                                                                                         | Cairo       |
+| **NeuroTech** | Backend Developer (Django) | [Apply](https://www.linkedin.com/posts/ayaelsayed_copied-internship-share-7454292859739893761-Zahv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLdSNQBQUJ9guVY7J4LIfFp2kgAVF2C-s8) | Cairo       |
+| **SEITech**   | AI Engineer Internship     | [Apply](https://seitech-solutions.odoo.com/jobs/detail/ai-engineer-internship-r4-304)                                                                                                      | Giza, Egypt |
 
 ### Mobile & Design
 
@@ -52,6 +54,7 @@ This guide helps Egyptian students find and land software internships. Whether y
 | **Money Fellows**   | Quality Control Intern                 | [Apply](https://careers.moneyfellows.com/en/postings/1d419900-381d-4013-a034-5d35fb6d2e96)                                                      | New Cairo             |
 | **Olam SVI**        | QC/QA Intern ( October and Bani Suef ) | [Apply](https://wuzzuf.net/internship/ioxygjkbcsm9-qcqa-intern-october-and-bani-suef-olam-svi-giza-egypt?l=cup&t=bj&a=Internships-in-Egypt&o=8) | October and Bani Suef |
 | **Ibn Sina Pharma** | Ibn Sina Pharma                        | [Apply](https://wuzzuf.net/internship/cutosbm1ogkl-quality-assurance-ibn-sina-pharma-cairo-egypt?l=cup&t=bj&a=Internships-in-Egypt&o=5)         | New Cairo             |
+| **SEITech**         | Software Tester Internship             | [Apply](https://seitech-solutions.odoo.com/jobs/detail/software-tester-internship-r4-302)                                                       | Giza, Egypt           |
 
 ### Corporate Summer Programs
 
