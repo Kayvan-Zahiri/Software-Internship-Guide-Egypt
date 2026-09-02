@@ -96,6 +96,7 @@ Crafting polished resumes and cover letters is essential to make a compelling fi
 - [Resume Templates](https://www.indeed.com/career-advice/resume-samples)
 - [Resume Worded](https://resumeworded.com/)
 - [Jobscan](https://www.jobscan.co/)
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker + AI resume builder; open State of ATS 2026 (738 employers, Workday 37.9%)
 - [Resumake](https://resumake.io/)
 - [Canva](https://www.canva.com/templates/resumes/)
 - [overleaf](https://www.overleaf.com/latex/templates/tagged/cv)
